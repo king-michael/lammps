@@ -70,8 +70,8 @@ and you must leave out the "ba", i.e. only list 4 coefficients after
 the angle type.
 
 ba
-N1 (energy/distance^2)
-N2 (energy/distance^2)
+N1 (energy/distance)
+N2 (energy/distance)
 r1 (distance)
 r2 (distance) :ul
 
